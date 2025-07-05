@@ -1,8 +1,8 @@
-# TrackApp - Sitio Web del Desarrollador
+# Trackly - Sitio Web del Desarrollador
 
-Este es el sitio web oficial del desarrollador de TrackApp.
+Este es el sitio web oficial del desarrollador de Trackly.
 
-## 🎬 TrackApp
+## 🎬 Trackly
 Aplicación móvil para hacer seguimiento de películas, series, juegos, música y libros.
 
 ## 📁 Archivos importantes
@@ -15,4 +15,4 @@ Aplicación móvil para hacer seguimiento de películas, series, juegos, música
 
 ## 📱 Contacto
 - Email: thetracklyapp@gmail.com
-- Desarrollador: TrackApp Team 
+- Desarrollador: Trackly Team 
